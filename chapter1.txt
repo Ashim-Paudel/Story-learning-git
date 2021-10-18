@@ -1,1 +1,3 @@
 Hello I am writing very first lines to this nascent text file.
+I added a new line to this text file.
+Currently i am developing my skills related to technology and it's awesome <3 <3
